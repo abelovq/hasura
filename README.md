@@ -1,7 +1,5 @@
 ## Hasura challenge
 
-First, run the development server:
-
 ## Requirements
 - docker
 - docker-compose
